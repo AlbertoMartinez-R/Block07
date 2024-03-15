@@ -1,0 +1,10 @@
+1   Write a message 
+        saying "You've been chosen to open an important vault. Here's the secret combination."
+1   Make variables 
+        create 3 variables that represent the lock combination
+2   Fill in the numbers 
+        Find out the first number (10) by substraction
+        Find the second number (20) by adding
+        Find the third number (30) by substraction
+3   Show the combination 
+        Show the user the combination numbers on a sentence 
